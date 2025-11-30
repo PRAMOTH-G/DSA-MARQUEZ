@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "duck",
+            "request": "launch",
+            "mainClass": "duck",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "MAGICNUMBER",
+            "request": "launch",
+            "mainClass": "MAGICNUMBER",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "AUTOMORP",
+            "request": "launch",
+            "mainClass": "AUTOMORP",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "SPYNUMBER",
+            "request": "launch",
+            "mainClass": "SPYNUMBER",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "NEON",
+            "request": "launch",
+            "mainClass": "NEON",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "DISARIUMNUMBER",
+            "request": "launch",
+            "mainClass": "DISARIUMNUMBER",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "ARMSTRONG",
+            "request": "launch",
+            "mainClass": "ARMSTRONG",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "SUMODDEVEN",
+            "request": "launch",
+            "mainClass": "SUMODDEVEN",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "SIATANDLAST",
+            "request": "launch",
+            "mainClass": "SIATANDLAST",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "REVERSE",
             "request": "launch",
             "mainClass": "REVERSE",
