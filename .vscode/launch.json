@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reee",
+            "request": "launch",
+            "mainClass": "reee",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "FIRST",
+            "request": "launch",
+            "mainClass": "FIRST",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "duck",
             "request": "launch",
             "mainClass": "duck",
