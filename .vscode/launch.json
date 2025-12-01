@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BUZZ",
+            "request": "launch",
+            "mainClass": "DAY_4.BUZZ",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "evil",
+            "request": "launch",
+            "mainClass": "DAY_4.evil",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "pronic",
+            "request": "launch",
+            "mainClass": "DAY_4.pronic",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "sunny",
+            "request": "launch",
+            "mainClass": "DAY_4.sunny",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "harsad",
+            "request": "launch",
+            "mainClass": "DAY_4.harsad",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "HARSHAD",
+            "request": "launch",
+            "mainClass": "DAY_4.HARSHAD",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "reee",
             "request": "launch",
             "mainClass": "reee",
