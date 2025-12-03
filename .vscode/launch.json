@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "STRONG",
+            "request": "launch",
+            "mainClass": "DAY_5.STRONG",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "PERFECT",
+            "request": "launch",
+            "mainClass": "DAY_5.PERFECT",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "SUMFACT",
+            "request": "launch",
+            "mainClass": "DAY_5.SUMFACT",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "factors",
+            "request": "launch",
+            "mainClass": "DAY_5.factors",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "factroial",
+            "request": "launch",
+            "mainClass": "DAY_5.factroial",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "BUZZ",
             "request": "launch",
             "mainClass": "DAY_4.BUZZ",
