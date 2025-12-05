@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strong_number_range",
+            "request": "launch",
+            "mainClass": "DAY_7.Strong_number_range",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "DAY_7.palindrome",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "ARMSTRONG_RANGE",
+            "request": "launch",
+            "mainClass": "DAY_7.ARMSTRONG_RANGE",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "Twisted",
             "request": "launch",
             "mainClass": "DAY_6.Twisted",
