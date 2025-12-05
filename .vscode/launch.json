@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Twisted",
+            "request": "launch",
+            "mainClass": "DAY_6.Twisted",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "COPRIME",
+            "request": "launch",
+            "mainClass": "DAY_6.COPRIME",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "PUBLIC_FZ",
+            "request": "launch",
+            "mainClass": "DAY_6.PUBLIC_FZ",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "PRIME_RANGE",
+            "request": "launch",
+            "mainClass": "DAY_6.PRIME_RANGE",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "PRIME",
+            "request": "launch",
+            "mainClass": "DAY_6.PRIME",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "STRONG",
             "request": "launch",
             "mainClass": "DAY_5.STRONG",
