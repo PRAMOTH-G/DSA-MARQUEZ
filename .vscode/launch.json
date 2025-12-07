@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NTH_FIB",
+            "request": "launch",
+            "mainClass": "DAY_8.NTH_FIB",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "POWER_TWO",
+            "request": "launch",
+            "mainClass": "DAY_8.POWER_TWO",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "POWER_2",
+            "request": "launch",
+            "mainClass": "DAY_8.POWER_2",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "SQUARE",
+            "request": "launch",
+            "mainClass": "DAY_8.SQUARE",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "GCD_AND_LCM",
+            "request": "launch",
+            "mainClass": "DAY_8.GCD_AND_LCM",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "Strong_number_range",
             "request": "launch",
             "mainClass": "DAY_7.Strong_number_range",
