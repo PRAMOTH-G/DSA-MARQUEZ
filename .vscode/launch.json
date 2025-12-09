@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BINARYTOHEXA",
+            "request": "launch",
+            "mainClass": "DAY_10.BINARYTOHEXA",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "BINARYTOOCTEL",
+            "request": "launch",
+            "mainClass": "DAY_10.BINARYTOOCTEL",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "BINARY2DECIMAL",
+            "request": "launch",
+            "mainClass": "DAY_10.BINARY2DECIMAL",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "NUMBER2ROMAN",
+            "request": "launch",
+            "mainClass": "DAY_9.NUMBER2ROMAN",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "NUMBER2WORD",
+            "request": "launch",
+            "mainClass": "DAY_9.NUMBER2WORD",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "NTH_FIB",
             "request": "launch",
             "mainClass": "DAY_8.NTH_FIB",
