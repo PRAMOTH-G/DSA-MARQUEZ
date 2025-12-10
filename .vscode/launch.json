@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LDEL",
+            "request": "launch",
+            "mainClass": "LDEL",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "linkedpos",
+            "request": "launch",
+            "mainClass": "linkedpos",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "linkedATend",
+            "request": "launch",
+            "mainClass": "linkedATend",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "LINKED",
+            "request": "launch",
+            "mainClass": "LINKED",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "BINARYTOHEXA",
             "request": "launch",
             "mainClass": "DAY_10.BINARYTOHEXA",
