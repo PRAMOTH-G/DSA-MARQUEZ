@@ -1,0 +1,4 @@
+class LINKED{
+    int data;
+
+}
