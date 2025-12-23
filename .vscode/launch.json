@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SMALLESTPOS",
+            "request": "launch",
+            "mainClass": "PRACTISES.SMALLESTPOS",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "TRZERO",
+            "request": "launch",
+            "mainClass": "PRACTISES.TRZERO",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "MISSINAARRAYNUM",
+            "request": "launch",
+            "mainClass": "PRACTISES.MISSINAARRAYNUM",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "REV",
+            "request": "launch",
+            "mainClass": "PRACTISES.REV",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "l",
+            "request": "launch",
+            "mainClass": "l",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "LDEL",
             "request": "launch",
             "mainClass": "LDEL",
