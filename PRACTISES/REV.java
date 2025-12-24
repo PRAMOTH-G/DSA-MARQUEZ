@@ -15,6 +15,7 @@ public class REV {
             temp/=100;
         }
         System.out.println(rev);
+        
     }
     
 }

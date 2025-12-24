@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "REMOVE_NINE",
+            "request": "launch",
+            "mainClass": "PRACTISES.REMOVE_NINE",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "FIB",
+            "request": "launch",
+            "mainClass": "PRACTISES.FIB",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "MAJEL",
+            "request": "launch",
+            "mainClass": "PRACTISES.MAJEL",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
+            "name": "ROTATEEE",
+            "request": "launch",
+            "mainClass": "PRACTISES.ROTATEEE",
+            "projectName": "MARQUEZZ_2754e932"
+        },
+        {
+            "type": "java",
             "name": "SMALLESTPOS",
             "request": "launch",
             "mainClass": "PRACTISES.SMALLESTPOS",
