@@ -18,6 +18,7 @@ public class SMALLESTPOS {
         }
         System.out.println(res);
         System.out.println(30>>3);
+        System.out.print();
     }
     
 }
